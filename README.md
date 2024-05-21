@@ -5,7 +5,7 @@
 <div style="display: inline_block ">
 
 <ol align="left">
-<li>📒 faço curso técnico na ETEC de Desenvolvimento de Sistemas;</li>  
+
 <li> 🌟 estou migrando de área;</li> 
 <li>💻 estudando HTML, CSS e Java.</li> 
 </ol>
