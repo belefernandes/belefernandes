@@ -2,15 +2,15 @@
 <div style="display: inline_block">
 <img align="rigth"  border-width="5" src="https://i.picasion.com/pic92/1eeac98cef18c37ac7003c509690bd4b.gif" width="120" height="120" border="10" alt="Beeka" /> 
  </div> 
-<div style="display: inline_block ">
 
-<ol align="left">
 
-<li> 🌟 estou migrando de área;</li> 
-<li>💻 estudando HTML, CSS e Java.</li> 
-</ol>
 
-  </div> 
+
+- 🌟 estou migrando de área;</li> 
+- 💻 estudando HTML, CSS e Java.</li> 
+
+
+
 
 #
   <div style="display: inline_block">
