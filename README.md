@@ -4,10 +4,10 @@
  </div> 
 
 
+### 1/6 T.I
 
 
-- 🌟 estou migrando de área;</li> 
-- 💻 estudando HTML, CSS e Java.</li> 
+- 💻 estudando HTML, CSS e Java. 
 
 
 
