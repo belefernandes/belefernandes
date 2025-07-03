@@ -1,13 +1,13 @@
 # ✨ Oie Galera, sou Isabele!✨
 <div style="display: inline_block">
-<img align="rigth"  border-width="5" src="https://i.picasion.com/pic92/1eeac98cef18c37ac7003c509690bd4b.gif" width="120" height="120" border="10" alt="Beeka" /> 
+<img align="rigth"  border-width="5" src="https://i.picasion.com/pic92/1eeac98cef18c37ac7003c509690bd4b.gif" width="120" height="120" border="10" alt="Beeka" align-content: "center" /> 
  </div> 
 
 
 ### 1/6 T.I
 
+<div aling-content="center"> - 💻 estudando HTML, CSS e Java.  </div>
 
-- 💻 estudando HTML, CSS e Java. 
 
 
 
