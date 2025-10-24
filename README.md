@@ -11,6 +11,9 @@
   <p>
 🐝 1/6 T.I
   </p>
+    <p>
+🐝 1/4 Téc. em DS
+  </p>
   <p>
   💻 estudando HTML, CSS e Java. 
    </p>
