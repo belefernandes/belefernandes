@@ -12,7 +12,7 @@
 🐝 2/6 T.I - UNIVESP
   </p>
     <p>
-🐝 1/4 Téc. em DS - Senac
+🐝 1/3 Téc. em DS - Senac
   </p>
   <p>
   💻 estudando HTML, CSS e Java. 
@@ -25,9 +25,3 @@
 
 
 #
-  <div style="display: inline_block">
-   <a herf= "https://github.com/belefernandes" > 
-     <img align="left" heigth="120cm" src="https://github-readme-stats.vercel.app/api?username=belefernandes&show_icons=true&bg_color=45,FFFF00,FFA500&title_color=000000&text_color=363636&icon_color=363636&border_color=1C1C1C&border_radius=10&locale=pt-br"/><br>
-   <img align="rigth" heigth="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belefernandes&layout=compact&bg_color=45,FFA500,FFFF00&title_color=000000&text_color=363636&icon_color=363636&border_color=1C1C1C&border_radius=10&locale=pt-br"/></a>
-  </div>
-
