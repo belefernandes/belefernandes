@@ -9,10 +9,10 @@
 <div width="100" height="100" border="10" align="center" margin="100PX" > 
 
   <p>
-🐝 2/6 T.I - UNIVESP
+🐝 3/6 T.I - UNIVESP
   </p>
     <p>
-🐝 1/3 Téc. em DS - Senac
+🐝 2/3 Téc. em DS - Senac
   </p>
   <p>
   💻 estudando HTML, CSS e Java. 
