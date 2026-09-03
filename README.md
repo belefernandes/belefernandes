@@ -15,7 +15,7 @@
 🐝 2/3 Téc. em DS - Senac
   </p>
   <p>
-  💻 estudando HTML, CSS e Java. 
+  💻 estudando HTML, CSS , Java e SQL. 
    </p>
  
 </div>
